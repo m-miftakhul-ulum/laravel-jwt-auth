@@ -17,6 +17,7 @@
 /public/hot
 /public/storage
 /storage/jwt/*.key
+/storage/jwt/*.pem
 /storage/pail
 /vendor
 Homestead.json
